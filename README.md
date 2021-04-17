@@ -4,7 +4,7 @@
 
 Merkle trees are widely used in many distributed systems. They are normally only used to verify static content, because when content changes the root of the tree changes as well. **To support mutable datasets, Hypercore uses asymmetric cryptography to sign the root of the Merkle tree as data is appended to it.**
 
-## https://hypercore-protocol.org/guides/getting-started/hyperspace/c
+## https://hypercore-protocol.org/guides/getting-started/hyperspace/
 Hyperspace is a **server** that bundles together many of our core modules
 
 
